@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercícios</string>
+
+    <string name="header01">EXERCÍCIO 01</string>
+    <string name="header02">EXERCÍCIO 02</string>
+    <string name="header03">EXERCÍCIO 03</string>
+
+    <string name="enviar01">Enviar</string>
+    <string name="enviar02">Enviar</string>
+    <string name="enviar03">Enviar</string>
+
+</resources>
