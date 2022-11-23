@@ -15,7 +15,7 @@
         android:onClick="onClick"
         android:text="@string/enviar01"
         android:textColor="#FFF"
-
+        android:backgroundTint="#04293A"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
